@@ -1,0 +1,1 @@
+delete from public.user where id = 'c2feaf64-c7a3-11ea-87d0-0242ac130003';
